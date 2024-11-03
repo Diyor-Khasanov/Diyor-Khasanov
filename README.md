@@ -1,21 +1,13 @@
 <h1 align="center">Hi 👋, I'm Diyor</h1>
 <h3 align="center">Just a frontend/backend developer from Samarkand, Uzbekistan</h3>
 
-- 🔭 I’m currently working on [Nike Clone](https://64ec852ecaa6a503fa7e607c--mynikeclonenetlifyapp.netlify.app/)
-
 - 🌱 I’m currently learning **Python, Django**
-
-- 👯 I’m looking to collaborate on [Car rental](https://64f21c66452058093fa9493e--car-rental-app-by-mrdiyor.netlify.app/)
-
-- 🤝 I’m looking for help with [Musa](https://www.chtonaujin.uz/)
 
 - 📝 I regularly write articles on [https://www.instagram.com/xasan0v_me/](https://www.instagram.com/xasan0v_me/)
 
 - 💬 Ask me about **Frontend/Backend development**
 
 - 📫 How to reach me **bdiyorxasanov@gmail.com**
-
-- 📄 Know about my experiences [https://www.instagram.com/xasan0v_me/](https://www.instagram.com/xasan0v_me/)
 
 - ⚡ Fun fact **I think I am lazy**
 
