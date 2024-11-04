@@ -11,6 +11,11 @@
 
 - ⚡ Fun fact **I think I am lazy**
 
+  <br />
+
+ ### Most used languages
+![ ](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerUz1234&show_icons=true&theme=react)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/diyorbek009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="diyorbek009" height="30" width="40" /></a>
