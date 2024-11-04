@@ -1,20 +1,22 @@
 <h1 align="center">Hi 👋, I'm Diyor</h1>
 <h3 align="center">Just a frontend/backend developer from Samarkand, Uzbekistan</h3>
 
-- 🌱 I’m currently learning **Python, Django**
-
-- 📝 I regularly write articles on [https://www.instagram.com/xasan0v_me/](https://www.instagram.com/xasan0v_me/)
-
-- 💬 Ask me about **Frontend/Backend development**
-
-- 📫 How to reach me **bdiyorxasanov@gmail.com**
-
-- ⚡ Fun fact **I think I am lazy**
+### My stats
+[![ProgrammerUz1234's github stats](https://github-readme-stats.vercel.app/api?username=ProgrammerUz1234&show_icons=true&theme=react)](https://github.com/ProgrammerUz1234/github-readme-stats) <br/><br/>
 
   <br />
 
  ### Most used languages
 ![ ](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerUz1234&show_icons=true&theme=react)
+
+### Coding time
+[![ProgrammerUz1234's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ProgrammerUz1234&show_icons=true&theme=react)](https://github.com/ProgrammerUz1234/github-readme-stats)
+<br/>
+<div align="center">
+    <img
+        width="99%"
+        src="https://activity-graph.herokuapp.com/graph?username=ProgrammerUz1234&custom_title=ProgrammerUz1234&bg_color=0D1117&line=61D9FA&color=61D9FA&point=fdf5ea&hide_border=true&area=false&area_color=61D9FA"
+    />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
