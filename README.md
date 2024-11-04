@@ -9,15 +9,6 @@
  ### Most used languages
 ![ ](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerUz1234&show_icons=true&theme=react)
 
-### Coding time
-[![ProgrammerUz1234's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ProgrammerUz1234&show_icons=true&theme=react)](https://github.com/ProgrammerUz1234/github-readme-stats)
-<br/>
-<div align="center">
-    <img
-        width="99%"
-        src="https://activity-graph.herokuapp.com/graph?username=ProgrammerUz1234&custom_title=ProgrammerUz1234&bg_color=0D1117&line=61D9FA&color=61D9FA&point=fdf5ea&hide_border=true&area=false&area_color=61D9FA"
-    />
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/diyorbek009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="diyorbek009" height="30" width="40" /></a>
