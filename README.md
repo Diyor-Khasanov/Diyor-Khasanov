@@ -7,7 +7,7 @@
   <br />
 
  ### Most used languages
-[ ](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerUz1234&show_icons=true&theme=react)
+![ ](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerUz1234&show_icons=true&theme=react)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
