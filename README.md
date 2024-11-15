@@ -2,12 +2,12 @@
 <h3 align="center">Just a frontend/backend developer from Samarkand, Uzbekistan</h3>
 
 ### My stats
-[![ProgrammerUz1234's github stats](https://github-readme-stats.vercel.app/api?username=ProgrammerUz1234&show_icons=true&theme=react)](https://github.com/ProgrammerUz1234/github-readme-stats) <br/><br/>
+[![ProgrammerUz067's github stats](https://github-readme-stats.vercel.app/api?username=ProgrammerUz067&show_icons=true&theme=react)](https://github.com/ProgrammerUz1234/github-readme-stats) <br/><br/>
 
   <br />
 
  ### Most used languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerUz1234&show_icons=true&theme=react)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerUz067&show_icons=true&theme=react)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
