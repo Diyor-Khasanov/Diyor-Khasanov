@@ -26,15 +26,12 @@
 
 <!-- Badges template - https://github.com/muhammad-abdulloh -->
 <p align="center">
-    <a href="https://github.com/">
+    <a href="https://github.com/ProgrammerUz067">
         <img alt="Github"
              src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/muhammadabdulloh-komilov/">
-        <img alt="Linkedin"
-             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://stackoverflow.com/users/17122298/clever-coder">
-        <img alt="Stackowerflow"
-             src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+    <a href="https://t.me/progremmer_uz_067">
+        <img alt="Telegram"
+             src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <!--      <a href="https://www.hackerrank.com/clevercoderr">
         <img alt="Hackerrank"
              src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
@@ -53,10 +50,10 @@
 
 ## 📊 Github stats
 <p>
-    <a align="center" href="https://github-readme-stats.vercel.app/api?username=muhammad-abdulloh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"><img alt="muhammad-abdulloh's Github Stats"
-                    src="https://github-readme-stats.vercel.app/api?username=muhammad-abdulloh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
-  <a align="center" href="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=muhammad-abdulloh&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
-    <img alt="muhammad-abdulloh's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=muhammad-abdulloh&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+    <a align="center" href="https://github-readme-stats.vercel.app/api?username=ProgrammerUz067&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"><img alt="ProgrammerUz Github Stats"
+                    src="https://github-readme-stats.vercel.app/api?username=ProgrammerUz067&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+  <a align="center" href="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerUz067&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
+    <img alt="ProgrammerUz067's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?ProgrammerUz067&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
 </p>
 
 <!-- <p>
