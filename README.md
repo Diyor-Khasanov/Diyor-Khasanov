@@ -95,7 +95,7 @@
 <!-- GitHub Readme Streak Stats - https://github.com/muhammad-abdulloh/github-readme-streak-stats -->
 <p align="center">
   <a href="#">
-    <img title="🔥 Streak stats" alt="MuhammadAbdulloh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-abdulloh&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Streak stats" alt="Diyor Khasanov's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-abdulloh&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
 
