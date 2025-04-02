@@ -49,7 +49,7 @@
 
 
 ## 📊 Github stats
-<img src="https://camo.githubusercontent.com/92e68518d71b7554b4f3f76d7fc5b0f495b3d19f6d63609106e39f54517b7c57/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d73686f6b68646576656c6f7065722673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="most used languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diyor-Khasanov)](https://github.com/anuraghazra/github-readme-stats" alt="most used languages">
 
 <!-- <p>
   <a align="center" href="https://github.com/ryo-ma/github-profile-trophy">
