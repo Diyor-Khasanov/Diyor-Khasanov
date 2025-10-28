@@ -51,11 +51,8 @@
 ## 📊 Github stats
 <img src='https://github-readme-stats.vercel.app/api?username=Diyor-Khasanov&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true'>
 
-<!-- <p>
-  <a align="center" href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=muhammad-abdulloh&theme=monokai&column=8&no-frame=true&no-bg=true">
-  </a>
-</p> -->
+## 📊 Top languages
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Diyor-Khasanov&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact'>
 
 ### 💻 My favorite operating systems
 <p>
