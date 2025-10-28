@@ -49,7 +49,7 @@
 
 
 ## 📊 Github stats
-![Diyor-Khasanov's Stats](https://github-readme-stats.vercel.app/api?username=Diyor-Khasanov&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+<img src='https://github-readme-stats.vercel.app/api?username=Diyor-Khasanov&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true'>
 
 <!-- <p>
   <a align="center" href="https://github.com/ryo-ma/github-profile-trophy">
