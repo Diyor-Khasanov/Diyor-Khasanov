@@ -91,20 +91,3 @@
   </a>
 </p>
 
-<!--   this is comment   -->
-    
-    
-<!--     
-    [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=muhammad-abdulloh)](https://github.com/muhammad-abdulloh/github-readme-activity-graph)
-
-    (https://github-readme-activity-graph.cyclic.app/graph?username=muhammad-abdulloh&theme=dracula)](https://github.com/muhammad-abdulloh/github-readme-activity-graph)
-    
-    <a href=""><img alt="muhammad-abdulloh's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=muhammad-abdulloh&theme=dracula" /></a> -->
-    
-    
-    
-    
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/muhammad-abdulloh/count.svg" />
-</p>
