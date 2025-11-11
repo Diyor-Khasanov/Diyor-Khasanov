@@ -20,16 +20,17 @@
 <p align="center"> 
 <a href ="[https://open.spotify.com/playlist/7A6G6HO8jNqKhRLdRV7B0V](https://open.spotify.com/artist/6L5bLEtpxwd0KOdOr3gtW4)" target="spotify"> <img src="https://spotify-github-aditya.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" width="300" /> </a> </p>
 
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Diyor-Khasanov&theme=dracula">
+</p>
+
 
 
 ## 🙋‍♂️ Connect with me
 
 <!-- Badges template - https://github.com/muhammad-abdulloh -->
 <p align="center">
-    <a href="https://github.com/ProgrammerUz067">
-        <img alt="Github"
-             src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-    <a href="https://t.me/progremmer_uz_067">
+    <a href="https://t.me/Diyor_Khasanov_dev">
         <img alt="Telegram"
              src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <!--      <a href="https://www.hackerrank.com/clevercoderr">
