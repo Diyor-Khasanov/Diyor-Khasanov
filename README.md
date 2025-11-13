@@ -33,10 +33,10 @@
     <a href="https://t.me/Diyor_Khasanov_dev">
         <img alt="Telegram"
              src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<!--      <a href="https://www.hackerrank.com/clevercoderr">
-        <img alt="Hackerrank"
-             src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
-    <a href="https://www.kaggle.com/clevercoderr">
+     <a href="https://leetcode.com/u/diyor-khasanov/">
+        <img alt="Leetcode"
+             src="https://img.shields.io/badge/-Leetcode-FF991C?style=for-the-badge&logo=Leetcode&logoColor=white"></a>
+    <!-- <a href="https://www.kaggle.com/clevercoderr">
         <img alt="Kaggle"
              src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
     <a href="https://discord.gg/clevercoderr">
