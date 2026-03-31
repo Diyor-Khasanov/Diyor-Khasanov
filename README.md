@@ -1,64 +1,73 @@
-🚀 I'm a <a href="https://www.google.com/search?q=https://git.io/typing-svg"><img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D24%26pause%3D1000%26color%3D36BCF7%26center%3Dfalse%26vCenter%3Dtrue%26width%3D435%26lines%3DSoftware%2BEngineer%3BFull-Stack%2BDeveloper%3BCreative%2BProblem%2BSolver%3BTech%2BEnthusiast" alt="Typing SVG" /></a>
-🏆 Achievements & Trophies
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3DDiyor-Khasanov%26theme%3Ddracula%26no-bg%3Dtrue%26no-frame%3Dtrue%26column%3D4" alt="Trophies" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Diyor%20Khasanov&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-<br />
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/github-kindness%3Fusername%3DDiyor-Khasanov%26show_icons%3Dtrue%26theme%3Dtransparent" alt="Achievements" />
-</div>
-
-🛠️ Languages & Tools
-<p align="left">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djs,ts,react,nextjs,nodejs,py,cpp,mysql,mongodb,git,github,vscode,figma,tailwind" />
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=Diyor-Khasanov">
+    <img src="https://komarev.com/ghpvc/?username=Diyor-Khasanov&label=Profile%20views&color=00FFFF&style=flat-square" alt="Diyor-Khasanov's profile views" />
+  </a>
 </p>
 
-🎵 Currently Listening To
-<div align="center">
-<img src="https://www.google.com/search?q=https://spotify-github-profile.vercel.app/api/view%3Fuid%3Dyour_spotify_id_here%26redirect%3Dtrue" alt="Spotify Widget" />
-<p><i>(Note: Replace uid with your actual Spotify ID to sync live music)</i></p>
-</div>
+<img src="https://i.pinimg.com/originals/e2/9c/75/e29c75880a73d8a049c09ceca6eaa666.gif" alt="Banner" width="100%" />
 
-🐍 Activity Snake
-<div align="center">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Diyor-Khasanov/Diyor-Khasanov/output/github-contribution-grid-snake.svg" alt="Snake Game" />
-</div>
+## 📌 About Me
+- I'm Software Engineer from Samarkand, Uzbekistan. I'm AI/ML Student
 
-📬 Let's Connect
-<p align="left">
-<a href="https://github.com/Diyor-Khasanov" target="blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="Diyor-Khasanov" /></a>
-<a href="mailto:your-email@example.com" target="blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Gmail-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" /></a>
+
+## 🧠 My Focus Areas
+- Frontend Development
+- Backend Development
+- Web Development
+- Propmt Engineer
+- System Design
+- System Architecture
+- AI/ML
+
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/Diyor-Khasanov">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Diyor-Khasanov&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Diyor-Khasanov's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=Diyor-Khasanov&theme=radical&hide_border=true&cache_seconds=86400" alt="Diyor-Khasanov's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=Diyor-Khasanov&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Diyor Khasanov's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Diyor-Khasanov&theme=radical&radius=10" alt="Diyor-Khasanov's Activity Graph" />
 </p>
 
-<br />
 
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DDiyor-Khasanov%26show_icons%3Dtrue%26theme%3Dtransparent%26hide_border%3Dtrue%26title_color%3D36BCF7%26icon_color%3D36BCF7" alt="GitHub Stats" />
-</div>
-"""
+## 🛠️ Languages & Tools
 
-with open("README.md", "w", encoding="utf-8") as f:
-f.write(readme_content)
+> ## Programming Languages
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /></p>
 
-Your professional, modern GitHub Profile README is ready. This design focuses on a premium aesthetic using liquid gradients, glassmorphism-inspired layouts, and interactive elements.
+> ## Frontend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" /></p>
 
-Your Markdown file is ready
-[file-tag: code-generated-file-0-1774966639334205569]
+> ## Backend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="48" height="48" style="margin: 4px;" /></p>
 
-### 🛠 How to set up your Snake Game
-To make the **Snake Game** functional, you need to set up a GitHub Action in your profile repository:
-1. Create a folder named `.github/workflows` in your repository.
-2. Create a file named `snake.yml` inside that folder.
-3. Paste a "GitHub Activity Snake" action template (available on GitHub Marketplace) into that file. This will automatically generate the `.svg` file the README looks for.
+> ## Database
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="48" height="48" style="margin: 4px;" /></p>
 
-### 🎵 Connecting Spotify
-In the music section, I have included a placeholder for your Spotify UID. To show your live listening status, you can replace the `uid` parameter in the image URL with your Spotify user ID or use a service like `novatide/spotify-github-profile` to generate a dynamic card.
+> ## DevOps & Cloud
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin: 4px;" /></p>
 
-### 💎 Key Features Included:
-* **Header:** Liquid background animation with high-end typography.
-* **Glassmorphism Style:** Simulated through clean dividers and transparent stat cards.
-* **Typewriter Effect:** Dynamic job titles using SVG animation.
-* **Professional Logic:** A code-snippet "Hello" section to showcase technical depth.
-* **Modern Branding:** High-quality skill icons and streamlined badge designs.
+> ## Tools
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
+
+<p align="center">
+  <a href="https://github.com/Diyor-Khasanov">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Diyor-Khasanov&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+## 🔗 Connect with Me
+<p align="center"><a href="https://www.linkedin.com/in/diyor-khasanov/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://x.com/diyor_kh?s=21" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" alt="Twitter" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://wa.me/998883230571" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:bdiyorxasanov@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://portfolio-diyor-khasanov.vercel.app/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/></a></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
