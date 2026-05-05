@@ -75,7 +75,6 @@ const diyor = {
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diyor-khasanov/)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/diyor_kh)
 [![Portfolio](https://img.shields.io/badge/Portfolio-39FF14?style=for-the-badge&logo=safari&logoColor=white)](https://portfolio-diyor-khasanov.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bdiyorxasanov@gmail.com)
 
