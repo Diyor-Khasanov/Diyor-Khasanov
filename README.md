@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12&text=Diyor%20Khasanov&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer&descSize=20&descAlignY=58&descColor=ffffffcc" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=30&text=Diyor%20Khasanov&fontSize=52&fontColor=ffffffcc&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer&descSize=20&descAlignY=58&descColor=ffffffcc" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+beautiful+UIs+%F0%9F%8E%A8;React+%26+Next.js+Developer;Turning+ideas+into+pixel-perfect+products" alt="Typing SVG" />
@@ -89,4 +89,4 @@ const diyor = {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=30&section=footer" width="100%" />
