@@ -20,8 +20,8 @@
 const diyor = {
   role:     "Frontend Developer",
   location: "Samarkand, Uzbekistan 🇺🇿",
-  focus:    ["React", "Next.js", "TypeScript", "JavaScript"],
-  learning: ["Web Performance", "Backend Development"],
+  focus:    ["React", "Next.js", "TypeScript", "JavaScript", "System Design"],
+  learning: ["Context Engineering", "Backend Development"],
   funFact:  "I obsess over pixel-perfect details 🎯"
 };
 ```
